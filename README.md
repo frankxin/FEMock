@@ -1,14 +1,14 @@
-### 与Mock相关的
+### Related with Mock
 
-#### 一、目标
+#### Aims
 
-更好的进行前后端并行开发，模拟更真实的数据，来加速前端开发
 
-#### 二、可能的实现方式
 
-1. 后端提供完整Mock接口，前端开发部分提供schema，并接入sdk
-2. 后端提供完整Mock接口，类似于[RAP](https://thx.github.io/RAP/index_zh.html)，采用可视化配置的方式，提供服务。
-3. 前端封装MockJS，提供更多方法
+#### Possible implementations
+
+1. The back-end provides a complete Mock interface, front-end development provide part of the schema, and access sdk
+2. The back-end provides a complete Mock interface, similar to [RAP] (https://thx.github.io/RAP/index.html), providing services in a visual configuration
+3. The front-end package MockJS, and provides more methods
 
 
 
